@@ -1,0 +1,17 @@
+body{
+    background-image: url(../IMG/home_site.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+@media screen and (max-width: 614px){
+    body{
+        background-image: url(../IMG/home_site\ resp.png);
+       
+    
+    }
+    .conteiner{
+       padding-bottom: 30rem;
+    }
+}
